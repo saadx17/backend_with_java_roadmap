@@ -1,19 +1,17 @@
-# Full Stack with Java Roadmap
+# Backend with Java Roadmap
 
-Welcome to the Full Stack with Java Roadmap! This repository contains notes, guides etc.
-First of all, to use the .md files, you must download Obsidian.
-Link for Obsidian: https://obsidian.md
+Welcome to the Backend Engineering with Java Roadmap! This repository contains notes, guides, codes and my journey to Backend.
+First of all, download Obsidian for better studying. Link for Obsidian: https://obsidian.md
 
 ## Contents
 1. Java
-2. Advanced Java
-3. Spring Boot
-
-### Java
-1. What is JAVA, JDK, JRE, JVM, OOP
-2. How JAVA works
-3. Variables & Data Types
-
 *(More content will be added as the roadmap progresses)*
 
+### Java
+1. What is JAVA, JDK, JRE, JVM.
+2. How JAVA works.
+3. Hello World.
+
+
+*(More content will be added as the roadmap progresses)*
 Studied & Authored by Abdullah Al Saad.
