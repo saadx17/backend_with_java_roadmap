@@ -15,6 +15,7 @@ First of all, download Obsidian for better studying. Link for Obsidian: https://
 4. Data Types & Variables
 5. Type Casting & Variable Naming
 6. Constants
+7. String
 
 *(More content will be added as the roadmap progresses)*
 
