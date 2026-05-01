@@ -33,3 +33,5 @@ Completed Loops.
 Today is Friday. So, I've studied hard.
 Completed Data Models, Keys, Relationships, Normalization & Denormalization. Also, I've realized I have to rework JAVA. There are too much information to study. I'll make those shot and easy to understand.
 I'm Out.
+###### 12:31 PM
+Made a java project using (1-8) Chapters. Reworked JAVA completely.

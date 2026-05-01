@@ -20,7 +20,7 @@ First of all, download Obsidian for better studying. Link for Obsidian: https://
 8. Operators
 9. Control Flow - if-else
 10. Control Flow - Switch & Ternary
-11. Loops
+11. Loops (Check: BracU Grading System in Projects Folder)
 
 *(More content will be added as the roadmap progresses)*
 
